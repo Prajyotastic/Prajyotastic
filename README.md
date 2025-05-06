@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Impact&size=28&duration=4000&color=FF272A&center=true&vCenter=true&lines=Hello+there%2C+I'm+Prajyotastic!;Welcome+to+my+digital+realm!;Let's+code+some+magic+today!;" alt="Typing SVG" />
 </h1>
-
+---
 ## About Me  
 
 - **HSC Student & Code Dreamer**  
