@@ -21,7 +21,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 ---
-[![Where's your Motivation? !](https://img.shields.io/badge/Where's%20your-Motivation%3F-001F54?style=for-the-badge)](https://www.youtube.com/watch?v=CRkC1p3Q2lY)
+[![Honarable Mention !](https://img.shields.io/badge/Honarable%Mention3F-001F54?style=for-the-badge)](https://youtu.be/mQRPxZI9z7Q?si=94zAMyKuZsg9-4kz)
 
 ---
 ## 🚀 Current Goals  
