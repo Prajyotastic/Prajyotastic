@@ -21,7 +21,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 ---
-[![Honorable Mention](https://img.shields.io/badge/Honorable%20Mention-001F54?style=for-the-badge)](https://www.youtube.com/watch?v=CRkC1p3Q2lY)
+[![Honorable Mention](https://img.shields.io/badge/Honorable%20Mention-001F54?style=for-the-badge)](https://youtu.be/s12Kzu_J8zg?si=qBoy7aSfHSOZXL8X)
 
 ---
 ## 🚀 Current Goals  
