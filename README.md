@@ -5,10 +5,9 @@
 ---
 ## About Me  
 
-- **HSC Student & Code Dreamer**  
-- Learning to turn coffee into code, bugs into features  
+- Learning to turn coffee into code, bugs into features
 - Love for poetry and modern tech  
-- Languages: Python
+- Languages: Python 
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
