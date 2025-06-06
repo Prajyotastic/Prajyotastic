@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Impact&size=28&duration=4000&color=F3F4F6&center=true&vCenter=true&lines=Hello+there%2C+I'm+Prajyotastic!;Welcome+to+my+digital+realm!;Let's+code+some+magic+today!;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Impact&size=28&duration=4000&color=F3F4F6&center=true&vCenter=true&lines=Hello+there%2C+I'm+Prajyot👋!;Welcome+to+my+digital+realm!;Let's+code+some+magic+today!;" alt="Typing SVG" />
 
 
 ---
@@ -7,7 +7,7 @@
 
 - Learning to turn coffee into code, bugs into features
 - Love for poetry and modern tech  
-- Languages: Python 
+- Languages: Python (In learning)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
