@@ -33,9 +33,7 @@
 - Explore open-source collaborations  
 - Build beginner-friendly tutorials for future coders
 ---
-![Coding Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
----
 ## 🌐 Connect with Me  
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Prajyotastic)
