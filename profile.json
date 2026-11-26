@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "login": "prajyotastic",
+  "login": "Prajyotastic",
   "seed": "#D71920",
   "seedFromAvatar": false,
-  "scheme": "tonalSpot",
+  "scheme": "monochrome",
   "motion": true,
   "appearance": {
     "typography": "matrix",
@@ -18,28 +18,28 @@
     "hero",
     "socials",
     "about",
-    "wave",
     "stack",
     "projects",
     "stats",
     "streak",
+    "wave",
     "buttons"
   ],
   "hidden": [],
   "hero": {
     "greeting": "Hi, I'm",
-    "name": "",
-    "subtitle": "I build interfaces and small useful tools.",
+    "name": "Prajyotastic",
+    "subtitle": "I build interfaces and small, useful tools.",
     "typing": true,
     "avatarShape": "pill",
     "chips": [
       {
-        "icon": "location_on",
-        "label": "Earth"
+        "icon": "code",
+        "label": "TypeScript · React · Python"
       },
       {
-        "icon": "code",
-        "label": "TypeScript · Python"
+        "icon": "palette",
+        "label": "Interface design"
       }
     ]
   },
@@ -52,7 +52,7 @@
       },
       {
         "icon": "code",
-        "label": "Mostly frontend"
+        "label": "Building practical digital tools"
       },
       {
         "icon": "palette",
@@ -64,7 +64,7 @@
     "title": "Tech stack",
     "groups": [
       {
-        "title": "Main",
+        "title": "Languages",
         "items": [
           {
             "icon": "brand:typescript",
@@ -129,15 +129,15 @@
     "items": [
       {
         "icon": "brand:telegram",
-        "url": "https://t.me/"
+        "url": "https://t.me/prajyotb"
       },
       {
         "icon": "brand:discord",
-        "url": "https://discord.com/"
+        "url": "https://discord.gg/rdcXP9g3"
       },
       {
-        "icon": "brand:x",
-        "url": "https://x.com/"
+        "icon": "music_note",
+        "url": "https://music.apple.com/profile/prajyotbulkar"
       }
     ],
     "variant": "chip",
@@ -147,15 +147,9 @@
   "buttons": {
     "items": [
       {
-        "icon": "language",
-        "label": "My website",
-        "url": "https://example.com",
-        "style": "filled"
-      },
-      {
         "icon": "book_2",
         "label": "All repositories",
-        "url": "",
+        "url": "https://github.com/Prajyotastic?tab=repositories",
         "style": "tonal"
       }
     ]
